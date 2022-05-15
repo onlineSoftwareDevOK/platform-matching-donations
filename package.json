@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/onlineSoftwareDevOK/platform-matching-donations/issues"
   },
-  "homepage": "https://github.com/onlineSoftwareDevOK/platform-matching-donations#readme"
+  "homepage": "https://github.com/onlineSoftwareDevOK/platform-matching-donations#readme",
+  "devDependencies": {
+    "hardhat": "^2.9.5"
+  }
 }
