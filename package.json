@@ -17,11 +17,12 @@
   },
   "homepage": "https://github.com/onlineSoftwareDevOK/platform-matching-donations#readme",
   "devDependencies": {
-    "@nomiclabs/hardhat-ethers": "^2.0.6",
+    "@nomiclabs/hardhat-ethers": "^2.0.2",
     "ethers": "^5.6.6",
     "hardhat": "^2.9.5"
   },
   "dependencies": {
+    "arb-shared-dependencies": "file:../arbitrum-tutorials/packages/arb-shared-dependencies",
     "dotenv": "^16.0.1"
   }
 }
