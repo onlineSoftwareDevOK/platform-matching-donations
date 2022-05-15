@@ -1,0 +1,19 @@
+{
+  "name": "platform-matching-donations",
+  "version": "1.0.0",
+  "description": "Charitable giving platform that offers matching donations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onlineSoftwareDevOK/platform-matching-donations.git"
+  },
+  "author": "onlinesoftwaredevok@protonmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/onlineSoftwareDevOK/platform-matching-donations/issues"
+  },
+  "homepage": "https://github.com/onlineSoftwareDevOK/platform-matching-donations#readme"
+}
