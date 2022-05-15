@@ -4,7 +4,7 @@
   "description": "Charitable giving platform that offers matching donations",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "hardhat compile"
   },
   "repository": {
     "type": "git",
